@@ -13,7 +13,8 @@
 2. Check your [taskbar](./deps/systray.jpg) and check if [Shadowsocks](./deps/ss-logo.png) is running. If it is not running, [search and start "shadowsocks.exe"](https://support.microsoft.com/en-us/windows/find-all-your-apps-and-programs-cadb9c4b-459d-dfcb-2964-14aac1d7d964#WindowsVersion=Windows_10). 
 3. [Update node information](./deps/ssupdateall.png). 
 4. [Select a Netflix node](./deps/ssselectnode-nf.png). 
-5. Visit <https://www.netflix.com> and it should be working. 
+5. Launch FireFox. Set [SwitchyOmega](./deps/what-is-switchyomega.md) to `Auto Switch / 自动切换` Mode.
+6. Visit <https://www.netflix.com> and it should be working. 
 
 
 
