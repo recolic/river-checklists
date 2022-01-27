@@ -7,15 +7,15 @@ If you are River, and you are getting unexpected result while executing checklis
 
 ## PC or Laptop
 
-[Unable to access some websites](./network-self-diag-pc.md)
+[Network issue: Unable to access some websites](./network-self-diag-pc.md)
 
 [Unable to watch Netflix](./netflix-broken-pc.md)
 
-[Some movies do not show up in Netflix]()
+[Some movies do not show up in Netflix](./WIP)
 
-[Forgot my Netflix account]() <!-- if using SpeedFrog, no acc needed. If comm100 nd, redirect to a page -->
+[Forgot my Netflix account](./WIP) <!-- if using SpeedFrog, no acc needed. If comm100 nd, redirect to a page -->
 
 ## iPad or iPhone
 
-[Unable to access Some Websites]()
+[Unable to access Some Websites](./WIP)
 
