@@ -11,11 +11,11 @@ If you are River, and you are getting unexpected result while executing checklis
 
 [Unable to watch Netflix](./netflix-broken-pc.md)
 
-[Some movies do not show up in Netflix](./WIP)
+[Some movies do not show up in Netflix](./netflix-region-limit.md)
 
-[Forgot my Netflix account](./WIP) <!-- if using SpeedFrog, no acc needed. If comm100 nd, redirect to a page -->
+[Forgot my Netflix account](https://recolic.net/res/netflix-account/) <!-- if using SpeedFrog, no acc needed. If comm100 nd, redirect to a page -->
 
 ## iPad or iPhone
 
-[Unable to access Some Websites](./WIP)
+[Unable to access Some Websites](./WIP.md)
 
